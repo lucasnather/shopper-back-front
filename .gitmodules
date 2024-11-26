@@ -1,0 +1,6 @@
+[submodule "shopper-viagens-front-end"]
+	path = shopper-viagens-front-end
+	url = https://github.com/lucasnather/shopper-viagens-front-end.git
+[submodule "shopper-viagens-back-end"]
+	path = shopper-viagens-back-end
+	url = https://github.com/lucasnather/shopper-viagens-back-end.git
